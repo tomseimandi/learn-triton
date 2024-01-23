@@ -4,7 +4,6 @@ Triton code for vector addition.
 import torch
 import triton
 import triton.language as tl
-import matplotlib
 
 
 @triton.jit
